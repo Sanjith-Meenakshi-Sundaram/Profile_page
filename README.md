@@ -42,6 +42,7 @@ Do not use CSS or JavaScript.
 
 Focus on semantic HTML and readability.
 ## HTML Code:
+
 <!DOCTYPE html>
 <html>
 <head>
